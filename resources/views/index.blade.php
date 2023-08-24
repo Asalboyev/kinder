@@ -734,7 +734,6 @@
         <div class="footer-shape-two"><img src="/images/shape-11.png" alt=""></div>
         <div class="footer-shape-three"><img src="/images/dragon.png" alt=""></div>
     </footer>
-
     <!-- Theme Need JS -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.bundle.min.js" ></script>
